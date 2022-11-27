@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>RevitAddin</Name>
+    <FullClassName>RevitAddin.Main</FullClassName>
+    <Text>My Revit Addin</Text>
+    <Description>Select line and create families at segments</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Assembly>D:\Coding\CSharp\RevitAddin\bin\Debug\RevitAddin.dll</Assembly>
+    <AddInId>ee7a96db-7d5c-4147-975a-b328caba150d</AddInId>
+    <VendorId>Laz</VendorId>
+    <VendorDescription>Creating Revit addin</VendorDescription>
+  </AddIn>
+</RevitAddIns>
